@@ -1,21 +1,52 @@
-# Olá! Eu sou Yasmin Correia, cientista de dados e administradora.
+# 👩🏽‍💻 Yasmin Correia | Data Scientist & Financial Analyst
 
-💰 Experiencia no Setor financeiro em inteligência de dados (shared experience)
-  
-  Analista PL realizando a sustentação e DataOps do modelo de atendimento digital em produçao. Foco em diagnostico e correção de quaisquer desvios de esquema (schema drift), falhas de ingestão ou gargalos de performance."
+### **"Transformando dados em decisões estratégicas e otimizando a excelência operacional no setor financeiro."**
 
-💼 Atualmente atuo como qualidade de dados do assistente virtual itau, responsável pela sustentação e evolução do pipeline de dados de Produtos PF, garantindo a entrega de insights críticos para a tomada de decisão.
+Sou **Cientista de Dados** e **Administradora** com sólida experiência em Inteligência de Dados e foco em *DataOps* e qualidade, especialmente em ambientes de alta criticidade no setor financeiro. Meu objetivo é garantir a confiabilidade dos dados para a evolução de produtos e tomada de decisão.
 
-🌱 Cursando MBA em Data science.
-  
-  <div style="display: inline_block"><br> 
-    <img align="center" alt="yasmin-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="yasmin-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
-    <img align="center" alt="yasmin-r" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> 
-    <img align="center" alt="yasmin-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  </div> 
-  
-  
+---
+
+## 🛠️ Stack de Tecnologia e Habilidades Chave
+
+| Categoria | Ferramentas / Idiomas |
+| :--- | :--- |
+| **Linguagens Core** | 🐍 `Python` (Pandas, NumPy, Scikit-learn), `R` (Análise Estatística) |
+| **Ambientes / Notebooks** | `Jupyter Notebook` / `JupyterLab`, Ambientes de Desenvolvimento Integrado (IDEs) |
+| **Banco de Dados** | `SQL` (Consultas e Otimização) |
+| **Engenharia de Dados (DataOps)** | Sustentação de Pipeline, Diagnóstico de `Schema Drift`, Otimização de Ingestão |
+| **Qualidade & Analytics** | Validação de Dados, Criação de `Insights`, Métricas de Performance |
+
+---
+
+## 💼 Experiência Profissional em Dados
+
+### 🌟 Qualidade de Dados | Assistente Virtual Itaú (Atual)
+
+Atuação focada na garantia da integridade e evolução dos sistemas que suportam o atendimento digital.
+
+* **Qualidade e Sustentação:** Responsável pela **Qualidade de Dados** do assistente virtual, garantindo que o *pipeline* de dados de Produtos PF esteja robusto e atualizado.
+* **Insights Críticos:** Garantia da entrega de *insights* críticos de performance e comportamento que subsidiam a tomada de decisão estratégica para a evolução do produto.
+
+### 💰 Inteligência de Dados (Shared Experience) | Setor Financeiro
+
+Experiência anterior em funções de inteligência e *DataOps*, focada na saúde e performance do modelo produtivo.
+
+* **Sustentação e DataOps:** Realizei a sustentação e *DataOps* do modelo de atendimento digital em produção, assegurando a estabilidade operacional.
+* **Diagnóstico de Falhas:** Foco em diagnóstico e correção de quaisquer desvios de esquema (*schema drift*), falhas de ingestão ou gargalos de performance, minimizando interrupções no serviço.
+
+---
+
+## 🎓 Formação e Desenvolvimento
+
+* **Pós-Graduação:** Cursando **MBA em Data Science** e Análise Preditiva.
+* **Graduação:** Bacharel em **Administração**.
+
+---
+
+## 🔗 Conecte-se Comigo!
+
+Estou sempre aberta a discutir projetos, novas tecnologias e oportunidades no setor financeiro e de dados.
+
   ## + Redes sociais:
  
 <div>  
