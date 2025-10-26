@@ -8,7 +8,7 @@
 
 🌱 Cursando MBA em Data science.
 
-![snake gif](https://github.com/Yasmcor/Yasmcor/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yasmcor/yasmcor/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center"> 
   <a href="https://github.com/Yasmcor">
