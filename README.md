@@ -1,35 +1,44 @@
-# 👩🏽‍💻 Olá! Eu sou Yasmin Correia
-### Data Scientist & Financial Analyst
+# 👩🏽‍💻 Olá! Eu sou Yasmin Correia | Data Scientist & MLOps
 
-### **"Transformando dados em decisões estratégicas e otimizando a excelência operacional no setor financeiro."**
+### **"Construindo modelos preditivos confiáveis e garantindo a excelência operacional dos pipelines de dados no setor financeiro."**
 
-Sou **Cientista de Dados** e **Administradora** com sólida experiência em Inteligência de Dados e foco em *DataOps* e qualidade, especialmente em ambientes de alta criticidade no setor financeiro. Meu objetivo é garantir a confiabilidade dos dados para a evolução de produtos e tomada de decisão.
+Sou **Cientista de Dados** e **Administradora** com sólida experiência em Inteligência de Dados e foco em **Qualidade e DataOps** em ambientes bancários de alta criticidade. Minha visão abrange todo o ciclo de vida do modelo: da análise exploratória à sustentação em produção.
 
 ---
 
 ## 🛠️ Stack de Tecnologia e Habilidades Chave
 
-| Categoria | Ferramentas / Idiomas |
+| Categoria | Destaque em Produção |
 | :--- | :--- |
 | **Linguagens Core** | 🐍 `Python` (Pandas, NumPy, Scikit-learn), `R` (Análise Estatística) |
-| **Ambientes / Notebooks** | `Jupyter Notebook` / `JupyterLab`, Ambientes de Desenvolvimento Integrado (IDEs) |
-| **Banco de Dados** | `SQL` (Consultas e Otimização) |
-| **Engenharia de Dados (DataOps)** | Sustentação de Pipeline, Diagnóstico de `Schema Drift`, Otimização de Ingestão |
-| **Qualidade & Analytics** | Validação de Dados, Criação de `Insights`, Métricas de Performance |
+| **Engenharia de Dados (DataOps)** | Sustentação de Pipeline, Diagnóstico de `Schema Drift`, Otimização de Ingestão e Performance |
+| **Machine Learning** | Modelagem Preditiva (Classificação/Regressão), Validação e Métricas de Modelo |
+| **Banco de Dados & Cloud** | `SQL` (Consultas e Otimização) |
+| **Qualidade & Analytics** | Garantia da Integridade dos Dados, Criação de *Insights* para tomada de decisão |
 
 ---
 
-## 💼 Experiência Profissional em Dados | Setor Financeiro
+## 💼 Experiência Profissional | Setor Financeiro
 
-### **Inteligência de Dados e Qualidade (Shared Experience)**
+### **Inteligência de Dados e Qualidade (Shared Experience: Júnior a Pleno)**
 
-Atuação contínua e evolutiva em funções de inteligência e *DataOps*, focada na saúde e performance do modelo produtivo de atendimento digital (Assistente Virtual Itaú).
+Atuação focada na garantia da integridade e evolução dos sistemas que suportam o atendimento digital (Assistente Virtual).
 
-#### **Foco Principal (Nível Pleno - Sustentação e Evolução):**
+* **Liderança Técnica em Qualidade:** Responsável pela **Qualidade de Dados** do assistente virtual, garantindo que o *pipeline* de dados de Produtos PF esteja robusto e atualizado.
+* **Sustentação MLOps (PL):** Foco em diagnóstico e correção de desvios de esquema (*schema drift*), falhas de ingestão ou gargalos de performance, **assegurando a estabilidade operacional** do modelo em produção.
+* **Analytics Estratégico:** Garantia da entrega de *insights* críticos de performance e comportamento que subsidiam a tomada de decisão para a evolução de produtos.
 
-* **Qualidade e Sustentação:** Responsável pela **Qualidade de Dados** do assistente virtual, garantindo que o *pipeline* de dados de Produtos PF esteja robusto e atualizado.
-* **Insights Críticos:** Garantia da entrega de *insights* de performance e comportamento que subsidiam a tomada de decisão estratégica para a **evolução do produto**.
-* **DataOps (Sustentação PL):** Realização da sustentação e *DataOps* do modelo em produção, focando em diagnóstico e correção de quaisquer desvios de esquema (*schema drift*), falhas de ingestão ou gargalos de performance, garantindo a estabilidade operacional.
+---
+
+## 📂 Projetos & Aplicações de Data Science
+
+Aqui, mostro a aplicação prática de meu conhecimento em ML com foco em Finanças (Adicione links para seus projetos aqui!)
+
+| Projeto (Exemplo) | Foco Preditivo | Tecnologias |
+| :--- | :--- | :--- |
+| **Previsão de Churn Bancário** | Classificação binária para prever a evasão de clientes. | Python, Scikit-learn |
+| **Detecção de Fraudes (Cédulas)** | Modelo preditivo para identificar desvios e mitigar riscos. | Classificação, EDA |
+| **Otimização de Marketing** | Previsão de compra em E-commerce para alocação eficiente de budget. | Regressão Logística |
 
 ---
 
