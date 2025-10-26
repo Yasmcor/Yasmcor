@@ -69,5 +69,4 @@ Estou sempre aberta a discutir projetos, novas tecnologias e oportunidades no se
 </p>
 
   ![snake gif](https://github.com/yasmcor/yasmcor/blob/output/github-contribution-grid-snake.gif)
-
 </div>
