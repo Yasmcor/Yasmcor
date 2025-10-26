@@ -1,5 +1,5 @@
 # 👩🏽‍💻 Olá! Eu sou Yasmin Correia
-## Data Scientist & Financial Analyst
+### Data Scientist & Financial Analyst
 
 ### **"Transformando dados em decisões estratégicas e otimizando a excelência operacional no setor financeiro."**
 
