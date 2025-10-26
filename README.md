@@ -29,6 +29,6 @@
   <a href = "mailto:yasmincorreiasilva14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://stackoverflow.com/users/16921776/yasmin-correia-da-silva"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"target="_blank"></a>
 
+  ![snake gif](https://github.com/yasmcor/yasmcor/blob/output/github-contribution-grid-snake.gif)
 
-![snake gif](https://github.com/yasmcor/yasmcor/blob/output/github-contribution-grid-snake.gif)
 </div>
