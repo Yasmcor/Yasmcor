@@ -1,4 +1,5 @@
-# 👩🏽‍💻 Olá! Eu sou Yasmin Correia | Data Scientist & MLOps
+# 👩🏽‍💻 Olá! Eu sou Yasmin Correia
+### Data Scientist & MLOps
 
 ### **"Construindo modelos preditivos confiáveis e garantindo a excelência operacional dos pipelines de dados no setor financeiro."**
 
