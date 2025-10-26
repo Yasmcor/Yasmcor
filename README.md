@@ -34,6 +34,7 @@ Atuação focada na garantia da integridade e evolução dos sistemas que suport
 ## 📂 Projetos & Aplicações de Data Science
 
 Aqui, mostro a aplicação prática de meu conhecimento em ML com foco em Finanças 
+
 https://github.com/Yasmcor/Projetos-setor-financeiro
 
 | Projeto (Exemplo) | Foco Preditivo | Tecnologias |
