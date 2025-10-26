@@ -1,5 +1,7 @@
 # Olá! Eu sou Yasmin Correia, cientista de dados e administradora.
 
+![snake gif](https://github.com/yasmcor/yasmcor/blob/output/github-contribution-grid-snake.gif)
+
 💰 Experiencia no Setor financeiro em inteligência de dados (shared experience)
   
   Analista PL realizando a sustentação e DataOps do modelo de atendimento digital em produçao. Foco em diagnostico e correção de quaisquer desvios de esquema (schema drift), falhas de ingestão ou gargalos de performance."
@@ -7,8 +9,6 @@
 💼 Atualmente atuo como qualidade de dados do assistente virtual itau, responsável pela sustentação e evolução do pipeline de dados de Produtos PF, garantindo a entrega de insights críticos para a tomada de decisão.
 
 🌱 Cursando MBA em Data science.
-
-![snake gif](https://github.com/yasmcor/yasmcor/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center"> 
   <a href="https://github.com/Yasmcor">
