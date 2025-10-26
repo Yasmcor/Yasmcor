@@ -1,6 +1,7 @@
 # Olá! Eu sou Yasmin Correia, cientista de dados e administradora.
 
 💰 Experiencia no Setor financeiro em inteligência de dados (shared experience)
+  
   Analista PL realizando a sustentação e DataOps do modelo de atendimento digital em produçao. Foco em diagnostico e correção de quaisquer desvios de esquema (schema drift), falhas de ingestão ou gargalos de performance."
 
 💼 Atualmente atuo como qualidade de dados do assistente virtual itau, responsável pela Sustentação e Evolução do Pipeline de Dados de Produtos PF, garantindo a entrega de insights críticos para a tomada de decisão.
