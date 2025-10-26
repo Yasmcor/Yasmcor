@@ -7,12 +7,6 @@
 💼 Atualmente atuo como qualidade de dados do assistente virtual itau, responsável pela sustentação e evolução do pipeline de dados de Produtos PF, garantindo a entrega de insights críticos para a tomada de decisão.
 
 🌱 Cursando MBA em Data science.
-
-<div align="center"> 
-  <a href="https://github.com/Yasmcor">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Yasmcor&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmcor&layout=compact&langs_count=7&theme=onedark"/>
-</div>
   
   <div style="display: inline_block"><br> 
     <img align="center" alt="yasmin-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
