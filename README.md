@@ -3,7 +3,7 @@
 
 ### **"Construindo modelos preditivos confiáveis e garantindo a excelência operacional dos pipelines de dados no setor financeiro."**
 
-Sou **Cientista de Dados** e **Administradora** com sólida experiência em Inteligência de Dados e foco em **Qualidade e DataOps** em ambientes bancários de alta criticidade. Minha visão abrange todo o ciclo de vida do modelo: da análise exploratória à sustentação em produção.
+Sou **Cientista de Dados** e **Administradora** com sólida experiência em Inteligência de Dados e foco em **Qualidade e DataOps** em ambientes bancários de alta criticidade. Minha visão abrange todo o ciclo de vida do modelo: da análise exploratória à sustentação em produção
 
 ---
 
