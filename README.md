@@ -36,22 +36,6 @@ Atuação focada na garantia da integridade e evolução dos sistemas que suport
 
 Minha trajetória combina **Qualidade de Dados, análise estatística, Data Preparation, Machine Learning, Model Evaluation e MLOps**.
 
-```text id="q8h1v2"
-Qualidade de dados
-      ↓
-Análise estatística & amostragem
-      ↓
-Data preparation
-      ↓
-Machine Learning
-      ↓
-Model evaluation
-      ↓
-MLOps
-      ↓
-Deployment
-```
-
 ### 🔹 01 | Qualidade de dados & análise
 
 Experiência com **AWS Athena e SQL** para investigação de bases, segmentação, extração de amostras e análise de comportamento dos dados.
