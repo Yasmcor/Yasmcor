@@ -31,9 +31,76 @@ Atuação focada na garantia da integridade e evolução dos sistemas que suport
 
 ---
 
-## 📂 Projetos & Aplicações de Data Science
 
-Aqui, mostro a aplicação prática de meu conhecimento em ML com foco em Finanças 
+## 📈 Projetos & aplicações de Data Science — minha linha do tempo
+
+Minha trajetória combina **Qualidade de Dados, análise estatística, Data Preparation, Machine Learning, Model Evaluation e MLOps**.
+
+```text id="q8h1v2"
+Qualidade de dados
+      ↓
+Análise estatística & amostragem
+      ↓
+Data preparation
+      ↓
+Machine Learning
+      ↓
+Model evaluation
+      ↓
+MLOps
+      ↓
+Deployment
+```
+
+### 🔹 01 | Qualidade de dados & análise
+
+Experiência com **AWS Athena e SQL** para investigação de bases, segmentação, extração de amostras e análise de comportamento dos dados.
+
+As análises eram utilizadas para identificar **concentradores de ocorrências e oportunidades de melhoria**, incluindo aplicação de **80/20 (Pareto)** para priorização.
+
+Também atuei com **Data Preparation para soluções de chatbot/SLM**, analisando mudanças na distribuição e no comportamento dos dados. Cenários associados a **data drift** podiam demandar nova preparação de dados para treinamento ou atualização dos modelos.
+
+**Stack:** `SQL` · `AWS Athena` · `Data Quality` · `Data Preparation` · `Statistical Sampling` · `Data Drift`
+
+---
+
+### 🔹 02 | RMSE Calculator 🐍
+
+Desenvolvimento de um notebook Jupyter interativo para **cálculo e avaliação de RMSE**, com suporte a entrada via script, dados manuais e arquivos CSV.
+
+**Stack:** `Python` · `Jupyter` · `ipywidgets` · `RMSE`
+
+🔗 [**Yasmcor/RMSE**](https://github.com/Yasmcor/RMSE)
+
+---
+
+### 🔹 03 | Modelview 🔍
+
+Desenvolvimento da biblioteca **`modelview`** para avaliação de modelos de classificação e visão computacional.
+
+A biblioteca recebe `y_true` e `y_pred` e estrutura análises de **matriz de confusão, métricas de classificação, equilíbrio e contexto de risco**, buscando aproximar avaliação estatística da interpretação do resultado.
+
+**Stack:** `Python` · `Model Evaluation` · `Classification` · `Confusion Matrix`
+
+🔗 [**Yasmcor/modelview**](https://github.com/Yasmcor/modelview)
+
+> 🚧 Em construção.
+
+---
+
+### 🔹 04 | Machine Learning & MLOps ⚙️
+
+Mentoria prática focada no ciclo de desenvolvimento de Machine Learning, com aplicação de **Data Preparation, Feature Engineering, prevenção de Data Leakage, avaliação, governança de schema, APIs, Docker e deployment**.
+
+🔗 [**Yasmcor/MLOPS_Portifolio**](https://github.com/Yasmcor/MLOPS_Portifolio)
+
+**Entrega:** **MII-D — Movies Investment Intelligence Dashboard**, projeto de classificação binária utilizando:
+
+`Regressão Logística` · `Feature Engineering` · `Data Leakage` · `F1-Score` · `FastAPI` · `Docker` · `Deployment`
+
+---
+
+### Aqui, mostro a aplicação prática de meu conhecimento em ML com foco em Finanças 
 
 https://github.com/Yasmcor/Projetos-setor-financeiro
 
@@ -44,6 +111,11 @@ https://github.com/Yasmcor/Projetos-setor-financeiro
 | **Otimização de Marketing** | Previsão de compra em E-commerce para alocação eficiente de budget. | Regressão Logística |
 
 ---
+
+### 🧠 Escopo técnico
+
+`Data Quality` · `SQL` · `AWS Athena` · `Statistical Sampling` · `Data Preparation` · `Data Drift` · `Python` · `Machine Learning` · `Model Evaluation` · `Feature Engineering` · `MLOps` · `FastAPI` · `Docker` · `Git/GitHub`
+
 
 ## 🎓 Formação e Desenvolvimento
 
