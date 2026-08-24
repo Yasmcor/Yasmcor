@@ -85,7 +85,7 @@ Mentoria prática focada no ciclo de desenvolvimento de Machine Learning, com ap
 ---
 
 ### Aqui, mostro a aplicação prática de meu conhecimento em ML com foco em Finanças 
-🔗 [**Yasmcor/Projetos-setor-financeiro)**](https://github.com/Yasmcor/Projetos-setor-financeiro)](https://github.com/Yasmcor/Projetos-setor-financeiro)
+🔗 [**Yasmcor/Projetos-setor-financeiro)**](https://github.com/Yasmcor/Projetos-setor-financeiro)]
 
 | Projeto (Exemplo) | Foco Preditivo | Tecnologias |
 | :--- | :--- | :--- |
