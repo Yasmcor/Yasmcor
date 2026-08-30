@@ -68,7 +68,7 @@ A biblioteca recebe `y_true` e `y_pred` e estrutura análises de **matriz de con
 
 🔗 [**Yasmcor/modelview**](https://github.com/Yasmcor/modelview)
 
-> 🚧 Em construção.
+> 🚧 Biblioteca em construção
 
 ---
 
